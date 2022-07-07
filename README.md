@@ -4,5 +4,5 @@ bazi ismini s**ktiklerim yok owsla botunu ben tamir ettim vidaladım falan fista
 # STATTAN VE GÖREV SİSTEMİNDEN BİR ÖRNEKCİK ZORT
 - GÖREVİ TAMAMLADIGINIZDA BUTON AKTİF HALE GELİYOR 
 
-![image](https://media.discordapp.net/attachments/993350996233310268/994739656023363745/unknown.png?width=458&height=237)
 ![image](https://media.discordapp.net/attachments/993350996233310268/994739749166268457/unknown.png?width=442&height=489)
+![image](https://media.discordapp.net/attachments/993350996233310268/994739656023363745/unknown.png?width=458&height=237)
