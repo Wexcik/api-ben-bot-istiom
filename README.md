@@ -3,7 +3,9 @@ bazi ismini s**ktiklerim yok owsla botunu ben tamir ettim vidaladım falan fista
 
 # botta ipnelik olsun die bi kaç yeri eksik hatalı bıraktım öyle yok armut piş ağzıma düş muck
 
-# YARIN SABAH 12.00 DA GÖRÜŞÜRÜZ 
+# BU HAFTA İÇİNDE Bİ FULL BOT DAHA GELİYO SEVİYOM SİZİ 
+
+# KİMSECİKLERE PRİM YOK ERİŞEMEZLER KORKMAYIN ALTYAPINIZI YAYMAM MUCK
 
 # STATTAN VE GÖREV SİSTEMİNDEN BİR ÖRNEKCİK ZORT
 - GÖREVİ TAMAMLADIGINIZDA BUTON AKTİF HALE GELİYOR 
